@@ -1,1 +1,3 @@
-../node_modules/
+/Notes-app/node_modules/
+/Weather-app/weathers-app/node_modules/
+/Weather-app/web-servers/node_modules/
